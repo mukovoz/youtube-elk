@@ -1,0 +1,16 @@
+{
+    "name": "mukovoz/elastic-stack-showcase",
+    "type": "project",
+    "description": "Elastic Stack Showcase.",
+    "keywords": [
+        "laravel",
+        "framework"
+    ],
+    "license": "MIT",
+    "require": {
+        "php": "^8.2",
+        "silex/silex":"^2.3.0",
+        "monolog/monolog": "^3.7",
+        "guzzlehttp/guzzle": "^7.9"
+    }
+}
